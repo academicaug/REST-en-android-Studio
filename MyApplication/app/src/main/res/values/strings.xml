@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consulta Academica</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">CEDULA:</string>
+    <string name="ci">2013 - 2014 CI</string>
+    <string name="cii">2013 - 2014 CII</string>
+    <string name="aceptar">CONSULTAR</string>
+    <string name="title_activity_main2">RESULTADOS</string>
+</resources>
